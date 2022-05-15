@@ -11,20 +11,20 @@ function Nav(){
             <nav>
                 <ul>
                     <li>
-                        About
+                        <a href= "#About">About</a>
                     </li>
                     <li>
-                        Projects
+                        <a href="#Work">Work</a>
                     </li>
                     <li>
-                        Contact
+                        <a href="#Contact">Contact</a>
                     </li>
                     <li>
-                        Resume
+                        <a href="Resume">Resume</a>
                     </li>
                 </ul>
             </nav> 
-      </header>  
+      </header>
     );
 }
 
