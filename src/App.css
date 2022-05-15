@@ -62,3 +62,50 @@ header nav ul li a:hover {
   background-position: center;
   position: relative;
 }
+
+.aboutme{
+  background-color: #00e6ee;
+  display: flex;
+}
+
+.aboutme div{
+  display: inline-flex;
+  vertical-align: top;
+  text-align: left;
+  margin: 30px 0 30px 60px;
+  flex-wrap: wrap;
+  flex: 70%;
+}
+.aboutme p{
+  font-size: 20px;
+  color: #012881;
+}
+
+.section-title{
+  font-size: 45px;
+color: #ef2155;
+margin-top: 20px;
+display: inline-flex;
+flex: 30%;
+justify-content: space-around;
+}
+
+.img-about{
+  width: 300px;
+  height: 350px;
+  padding: 0.3rem;
+  margin-top: 5rem;
+}
+
+.one{
+  display: flex;
+}
+
+.work{
+  margin: 40px;
+  background: #012881;
+  color: #00e6ee;
+  flex: 0 0 400px;
+  border-radius: 10px;
+}
+
