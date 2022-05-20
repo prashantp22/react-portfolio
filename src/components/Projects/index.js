@@ -52,6 +52,16 @@ const Projects = () => {
                 </div>
             </article>
         </a>
+
+        <a href="https://prashantp22.github.io/password-generator/">
+            <article class="work">
+                <img src={require(`../Projects/password.jpg`)} alt="" />
+                <div class="workname">
+                    <h3>Password Generator</h3>
+                    <h4>HTML/CSS/javascript</h4>
+                </div>
+            </article>
+        </a>
     </div>
     );
  

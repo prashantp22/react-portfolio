@@ -132,3 +132,51 @@ justify-content: space-around;
   text-decoration: none;
 }
 
+.contact {
+  background: #012881;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.contact-form {
+  border: 3px solid #024e76;
+  background-color: #00e6ee;
+  padding: 20px;
+  width: 500px;
+  margin: 3.5%;
+  color: #024e76;
+  border-radius: 10px;
+}
+
+.form-input {
+  border: 1px solid #024e76;
+  display: block;
+  padding: 7px 15px;
+  font-size: 16px;
+  color: #024e76;
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+.label {
+  margin: 0 5px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+.contact-form button {
+  color: #00e6ee;
+  background-color: #024e76;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.contact-form button:hover {
+  color: #024e76;
+  background-color: #fce138 ;  
+}
