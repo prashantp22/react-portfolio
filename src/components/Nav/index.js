@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-scroll";
 
 function Nav(){
     return (
@@ -11,16 +12,16 @@ function Nav(){
             <nav>
                 <ul>
                     <li>
-                        <a href= "#About">About</a>
+                        <Link smooth={ true } to="About Me" offset={-100} href= "#">About</Link>
                     </li>
                     <li>
-                        <a href="#Portfolio">Portfolio</a>
+                        <Link smooth={true} to="Work" offset={-100} href="#">Portfolio</Link>
                     </li>
                     <li>
-                        <a href="#Contact">Contact</a>
+                        <Link smooth={true} to="Contact" offset={-100} href="#">Contact</Link>
                     </li>
                     <li>
-                        <a href="Resume">Resume</a>
+                        <Link smooth={true} to="Resume" offset={-100} href="#">Resume</Link>
                     </li>
                 </ul>
             </nav> 

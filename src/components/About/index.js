@@ -10,7 +10,7 @@ function About() {
             </div>
             <div>
                 <p>
-                    A Front-End Web Developer passionate about creating interactive appications and experiences on the web.
+                    I am a Front-End Web Developer passionate about creating interactive appications and experiences on the web. I have complete a certifcate in Full Stack Web Development from the Rutgers University so I can bring ideas to life. I am seeking opportunities to learn and refine my development skills so that I can build better applications. As a strong communicator who can adapt to any team environment, I am excited to bring my experiences to join a quality-driven team to build great porducts.
                 </p>
             </div>
         </section>

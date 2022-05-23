@@ -3,7 +3,7 @@ import resume from "../../assets/resume/resume.pdf";
 
 function Resume() {
     return(
-        <section className="resume">
+        <section id="Resume" className="resume">
             <div>
                 <h1>My Resume</h1>
                 <p>Please click link below and download my resume</p>
