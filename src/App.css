@@ -180,3 +180,21 @@ justify-content: space-around;
   color: #024e76;
   background-color: #fce138 ;  
 }
+
+footer {
+  background: #00e6ee;
+  width: 100%;
+  padding: 40px 35px;
+  text-align: center;
+}
+
+footer h2 {
+  display: inline;
+  color: #012881;
+  font-size: 20px;
+  margin: 0;
+}
+
+footer a{
+  padding: 10px;
+}
