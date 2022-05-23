@@ -1,4 +1,4 @@
-# social-network-api
+# React-portfolio
 
 <img src="https://img.shields.io/badge/license-ISC-blue"/>
     
