@@ -132,6 +132,51 @@ justify-content: space-around;
   text-decoration: none;
 }
 
+.resume{
+  background-image: url('../src/assets/resume.png');
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.resume div{
+  justify-content: space-around;
+padding: 15%;
+text-align: center;
+}
+
+.resume h1{
+  font-size: 45px;
+color: #ef2155;
+padding: 5px;
+}
+
+.resume p{
+  font-size: 20px;
+  padding: 20px;
+}
+
+.resume button {
+  background-color: #024e76;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.resume button a{
+  text-decoration: none;
+  color: #00e6ee;
+}
+.resume button:hover{
+  background-color: #fce138 ;  
+}
+
+.resume a:hover{
+  color: #024e76;
+}
+
 .contact {
   background: #012881;
   height: 400px;
