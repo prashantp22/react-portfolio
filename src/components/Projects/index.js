@@ -16,13 +16,13 @@ const Projects = () => {
             </article>
         </a>
 
-        <a href="https://github.com/Xcamaj/Dealership-inventory">
+        <a href="https://boiling-wave-89025.herokuapp.com/">
             <article class="work">
-                <img src={require(`../Projects/dealership.png`)} alt="website clip" />
+                <img src={require(`../Projects/smartstore.jpg`)} alt="website clip" />
                 <div class="workname">
-                    <h3>Dealership Inventory</h3>
-                    <h4>Node</h4>
-                    <a href="https://github.com/Xcamaj/Dealership-inventory">
+                    <h3>Smart Store</h3>
+                    <h4>MERN</h4>
+                    <a href="https://github.com/jciii91/smart-store">
                         <img src= {require(`../Footer/GitHub-Mark-Light-64px.png`)} alt="github icon" />
                     </a>
                 </div>
