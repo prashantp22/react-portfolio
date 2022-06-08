@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.88766df0.css",
-    "main.js": "/react-portfolio/static/js/main.ebaacd3e.js",
+    "main.js": "/react-portfolio/static/js/main.afa9696d.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/resume.pdf": "/react-portfolio/static/media/resume.dcf0d59b8976429e8e3c.pdf",
     "static/media/prashant.jpg": "/react-portfolio/static/media/prashant.6406ed2e6f2d1024481b.jpg",
+    "static/media/smartstore.jpg": "/react-portfolio/static/media/smartstore.486544c5458ee45d0987.jpg",
     "static/media/potter.jpg": "/react-portfolio/static/media/potter.21a4cb91a30a47686849.jpg",
     "static/media/runbuddy.jpg": "/react-portfolio/static/media/runbuddy.3ada9022613cd9fe1e1a.jpg",
     "static/media/concert-vagabond.jpg": "/react-portfolio/static/media/concert-vagabond.136dc9241067f2a27680.jpg",
     "static/media/weather.jpg": "/react-portfolio/static/media/weather.1c8597a5b34c49965def.jpg",
     "static/media/resume.png": "/react-portfolio/static/media/resume.bdca22953514f762a638.png",
     "static/media/shutterstock.jpg": "/react-portfolio/static/media/shutterstock.964540233f29a43cfed4.jpg",
-    "static/media/dealership.png": "/react-portfolio/static/media/dealership.f688d04914c9d85b0818.png",
     "static/media/password.jpg": "/react-portfolio/static/media/password.4d716dc87dca4d902146.jpg",
     "index.html": "/react-portfolio/index.html",
     "main.88766df0.css.map": "/react-portfolio/static/css/main.88766df0.css.map",
-    "main.ebaacd3e.js.map": "/react-portfolio/static/js/main.ebaacd3e.js.map",
+    "main.afa9696d.js.map": "/react-portfolio/static/js/main.afa9696d.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88766df0.css",
-    "static/js/main.ebaacd3e.js"
+    "static/js/main.afa9696d.js"
   ]
 }
